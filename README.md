@@ -10,12 +10,15 @@ I am a passionate software engineer with experience in building scalable web app
 
 **Frontend**
 - AngularJS, Angular, React.js
-- HTML5, CSS3, JavaScript (ES6+)
+- HTML5, CSS3, JavaScript (ES6+), Type Script
 
 **Backend**
 - Node.js, Express.js
 - REST APIs
 - Authentication & Authorization
+
+**Backend**
+- React-Native
 
 **Databases**
 - MySQL, PostgreSQL
