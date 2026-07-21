@@ -52,9 +52,9 @@ I am a passionate software engineer with experience in building scalable web app
 - Sequelize, Mongoose
 
 **Cloud & DevOps**
-- AWS (Cognito, Pinpoint, Amplify, EC2, S3, Serverless, ECR, ECS)
+- AWS (Cognito, Pinpoint, Amplify, EC2, S3, Serverless, ECR, ECS, SLS, IAM)
 - Docker, Docker Compose
-- CI/CD basics
+- CI/CD Pipeline using GitHub Action & AWS Code Pipeline
 
 **Other**
 - Payment Gateway Integration (Stripe, Razorpay, PayU, PayPal, Paytm, Cashfree)
